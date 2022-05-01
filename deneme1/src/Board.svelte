@@ -1,10 +1,10 @@
 <script>
-import Pgn from './Pgn.svelte';
+
 </script>
 
 <main>
-	<h1>Hello !</h1>
-<Pgn/>
+	<h1>Hello {name}!</h1>
+
 </main>
 
 <style>
