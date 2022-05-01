@@ -1,10 +1,12 @@
 <script>
 import Pgn from './Pgn.svelte';
+import Board from './Board.svelte';
 </script>
 
 <main>
 	<h1>Hello !</h1>
 <Pgn/>
+<Board/>
 </main>
 
 <style>
